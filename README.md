@@ -54,3 +54,10 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+
+
+## AI Лог
+
+- **Юу асуусан:** Claude-аас React Native (Expo) орчин тохируулах, Hello World апп бичих талаар асуусан.
+- **Юу сурсан:** Expo Go, Metro bundler, terminal командууд (npx create-expo-app, expo start), болон React Native дээр useState, Pressable ашиглан интерактив UI хийхийг сурсан.
+- **Бэрхшээл:** SDK хувилбарын зөрчил, файлын байршлын алдаа зэрэгт саад тулгарсан ч шийдвэрлэсэн.
